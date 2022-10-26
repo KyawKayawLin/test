@@ -3,7 +3,7 @@
     "data": [
         {
             "id": 1,
-            "home_name": "Inter",
+            "home_name": "INT",
             "away_name": "VP",
             "date": "October 26",
             "time": "live",
@@ -13,7 +13,7 @@
         {
             "id": 2,
             "home_name": "CB",
-            "away_name": "Porto",
+            "away_name": "PTO",
             "date": "October 26",
             "time": "live",
             "created_at": "2022-10-26T01:05:39.000000Z",
