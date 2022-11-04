@@ -109,20 +109,9 @@
             "result":"2-1",
             "created_at": "2022-10-26T00:32:54.000000Z",
             "updated_at": "2022-10-26T00:32:54.000000Z"
-        },{
-            "id": 10,
-            "home_name": "CPH",
-            "away_name": "BDM",
-            "date": "Nov 3",
-            "time": "1:30 AM",
-            "language":"English",
-            "link":"https://dms.redbull.tv/v5/dms/media/stv/AAJY86R4TXDA30BEUIL9/1920x1080@7036798/personal_computer/http/at/playlist.m3u8",
-            "result":"1-1",
-            "created_at": "2022-10-26T00:32:54.000000Z",
-            "updated_at": "2022-10-26T00:32:54.000000Z"
         },
         {
-            "id": 2,
+            "id": 10,
             "home_name": "RMA",
             "away_name": "CEL",
             "date": "Nov 3",
